@@ -1,0 +1,47 @@
+#contacto{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+#contacto figure{
+    width: 100%;
+}
+#contacto figure img.p1{
+    width: 100%;
+}
+#contacto h2{
+    width: 100%;
+    color: dimgrey;
+    font-family: "Padauk";
+    font-size: 20px;
+    text-align: center;
+    
+}
+#contacto img.p2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    width: 30%;
+    
+}
+#contacto h3{
+    width: 25%;
+    color: gray;
+    font-family: "Padauk";
+    font-size: 20px;
+    text-align: center;
+}
+#contacto img.p3{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    width: 30%;
+}
+#contacto h4{
+    width: 20%;
+    color: gray;
+    font-family: "Padauk";
+    font-size: 20px;
+    text-align: center;
+}

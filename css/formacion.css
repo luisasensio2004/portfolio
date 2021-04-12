@@ -1,0 +1,29 @@
+
+#profesionales{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+#profesionales h2{
+    width: 100%;
+    color: gray;
+    font-family: "Padauk";
+}
+#profesionales p.p1{
+    width: 100%;
+    font-family: "Padauk";
+    text-align: center;
+    text-indent: 1cm;
+    line-height: 1.7;
+    font-size: 18px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+}
+#profesionales img.p2{
+    width: 30%;
+    height: 40%;
+}
+#profesionales p.p3{
+    width: 100%;
+}

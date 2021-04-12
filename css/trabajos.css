@@ -1,0 +1,48 @@
+#instalaciones{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+#instalaciones h2{
+    width: 100%;
+    color: gray;
+    font-family: "Padauk";
+}
+#instalaciones P.p1{
+    width: 100%;
+    text-align: center;
+    font-family: "Padauk";
+    font-size: 30px;
+    color: lightskyblue;
+    
+}
+#instalaciones h3{
+    font-family: "Padauk";
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+}
+#instalaciones h4{
+    font-family: "Padauk";
+    width: 30%;
+    text-align: center;
+    font-size: 20px;
+}
+#instalaciones h5{
+    font-family: "Padauk";
+    width: 30%;
+    text-align: center;
+    font-size: 20px;
+}
+#instalaciones p.p2{
+    width: 30%;
+}
+#instalaciones p.p3{
+    width: 30%;
+}
+#instalaciones p.p4{
+    width: 30%;
+}
+#instalaciones img.p2{
+    height: 50%;
+}

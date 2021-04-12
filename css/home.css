@@ -1,0 +1,15 @@
+#home{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+#home h2{
+width: 100%;
+color: gray;
+font-family: "Padauk";
+}
+#home figure img{
+    width: 100%;
+    height: 75%;
+}
+
